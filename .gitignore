@@ -1,4 +1,4 @@
 *.o
 /bin/**
-/ports/**
+/ports
 !/ports/linux
